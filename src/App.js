@@ -22,9 +22,9 @@ function App() {
         </nav>
         <main>
         <Switch>
-            <Home exact path="/" component={Home} title=""></Home>
-            <About exact path="/about" component={Home} title=""></About>
-            <Contact exact path="/contact" component={Home} title=""></Contact>
+            <Home exact path="/"></Home>
+            <About exact path="/about"></About>
+            <Contact exact path="/contact"></Contact>
           </Switch>
         </main>
       </div>
