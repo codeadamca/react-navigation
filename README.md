@@ -2,7 +2,9 @@
 
 A basic example of using the [react-router-dom](https://www.npmjs.com/package/react-router-dom) package.
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [React.js](https://reactjs.org/)
 * [react-router-dom](https://www.npmjs.com/package/react-router-dom)
